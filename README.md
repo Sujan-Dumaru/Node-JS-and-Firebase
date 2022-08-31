@@ -18,4 +18,4 @@ Learning to build REST API using Node JS and Firebase.
 ## Command to Run Project
 
 - Open the project in visual studio code.
-- Type the command '`npm run start`' in 'Terminal' and Press 'Enter' .
+- Type the command `npm run start` in 'Terminal' and Press 'Enter' .
