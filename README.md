@@ -14,3 +14,8 @@ Learning to build REST API using Node JS and Firebase.
 
 - **Router in Express:** https://www.digitalocean.com/community/tutorials/learn-to-use-the-new-router-in-expressjs-4
 - **Difference between set() and add() in Firestore:** https://stackoverflow.com/questions/47474522/firestore-difference-between-set-and-add
+
+## Command to Run Project
+
+- Open the project in visual studio code.
+- Type the command '`npm run start`' in 'Terminal' and Press 'Enter' .
